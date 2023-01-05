@@ -1,0 +1,16 @@
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\obj\Debug\net5.0\Building blocks.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\obj\Debug\net5.0\Building blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\obj\Debug\net5.0\Building blocks.AssemblyInfoInputs.cache
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\obj\Debug\net5.0\Building blocks.AssemblyInfo.cs
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\obj\Debug\net5.0\Building blocks.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\bin\Debug\net5.0\Building blocks.exe
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\bin\Debug\net5.0\Building blocks.deps.json
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\bin\Debug\net5.0\Building blocks.runtimeconfig.json
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\bin\Debug\net5.0\Building blocks.runtimeconfig.dev.json
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\bin\Debug\net5.0\Building blocks.dll
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\bin\Debug\net5.0\ref\Building blocks.dll
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\bin\Debug\net5.0\Building blocks.pdb
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\obj\Debug\net5.0\Building blocks.dll
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\obj\Debug\net5.0\ref\Building blocks.dll
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\obj\Debug\net5.0\Building blocks.pdb
+C:\Users\Avatar\Desktop\C#\CodeWars\Building blocks\obj\Debug\net5.0\Building blocks.genruntimeconfig.cache

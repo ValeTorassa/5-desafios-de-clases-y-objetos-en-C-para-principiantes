@@ -1,0 +1,32 @@
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\bin\Debug\net5.0\Tanque WWII.exe
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\bin\Debug\net5.0\Tanque WWII.deps.json
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\bin\Debug\net5.0\Tanque WWII.runtimeconfig.json
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\bin\Debug\net5.0\Tanque WWII.runtimeconfig.dev.json
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\bin\Debug\net5.0\Tanque WWII.dll
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\bin\Debug\net5.0\ref\Tanque WWII.dll
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\bin\Debug\net5.0\Tanque WWII.pdb
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\obj\Debug\net5.0\Tanque WWII.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\obj\Debug\net5.0\Tanque WWII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\obj\Debug\net5.0\Tanque WWII.AssemblyInfoInputs.cache
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\obj\Debug\net5.0\Tanque WWII.AssemblyInfo.cs
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\obj\Debug\net5.0\Tanque WWII.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\obj\Debug\net5.0\Tanque WWII.dll
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\obj\Debug\net5.0\ref\Tanque WWII.dll
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\obj\Debug\net5.0\Tanque WWII.pdb
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Tanque WWII\obj\Debug\net5.0\Tanque WWII.genruntimeconfig.cache
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\bin\Debug\net5.0\Tanque WWII.exe
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\bin\Debug\net5.0\Tanque WWII.deps.json
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\bin\Debug\net5.0\Tanque WWII.runtimeconfig.json
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\bin\Debug\net5.0\Tanque WWII.runtimeconfig.dev.json
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\bin\Debug\net5.0\Tanque WWII.dll
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\bin\Debug\net5.0\ref\Tanque WWII.dll
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\bin\Debug\net5.0\Tanque WWII.pdb
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\obj\Debug\net5.0\Tanque WWII.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\obj\Debug\net5.0\Tanque WWII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\obj\Debug\net5.0\Tanque WWII.AssemblyInfoInputs.cache
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\obj\Debug\net5.0\Tanque WWII.AssemblyInfo.cs
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\obj\Debug\net5.0\Tanque WWII.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\obj\Debug\net5.0\Tanque WWII.dll
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\obj\Debug\net5.0\ref\Tanque WWII.dll
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\obj\Debug\net5.0\Tanque WWII.pdb
+C:\Users\Avatar\Desktop\5 desafios de programacion clases y objetos c#\Tanque WWII (Ejercicio 3,5 y tarea)\obj\Debug\net5.0\Tanque WWII.genruntimeconfig.cache

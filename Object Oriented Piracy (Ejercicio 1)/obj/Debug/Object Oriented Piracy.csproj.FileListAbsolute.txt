@@ -1,0 +1,14 @@
+C:\Users\Avatar\source\repos\Object Oriented Piracy\bin\Debug\Object Oriented Piracy.exe.config
+C:\Users\Avatar\source\repos\Object Oriented Piracy\bin\Debug\Object Oriented Piracy.exe
+C:\Users\Avatar\source\repos\Object Oriented Piracy\bin\Debug\Object Oriented Piracy.pdb
+C:\Users\Avatar\source\repos\Object Oriented Piracy\obj\Debug\Object Oriented Piracy.csproj.AssemblyReference.cache
+C:\Users\Avatar\source\repos\Object Oriented Piracy\obj\Debug\Object Oriented Piracy.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\source\repos\Object Oriented Piracy\obj\Debug\Object Oriented Piracy.exe
+C:\Users\Avatar\source\repos\Object Oriented Piracy\obj\Debug\Object Oriented Piracy.pdb
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Object Oriented Piracy\bin\Debug\Object Oriented Piracy.exe.config
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Object Oriented Piracy\bin\Debug\Object Oriented Piracy.exe
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Object Oriented Piracy\bin\Debug\Object Oriented Piracy.pdb
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Object Oriented Piracy\obj\Debug\Object Oriented Piracy.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Object Oriented Piracy\obj\Debug\Object Oriented Piracy.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Object Oriented Piracy\obj\Debug\Object Oriented Piracy.exe
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Object Oriented Piracy\obj\Debug\Object Oriented Piracy.pdb

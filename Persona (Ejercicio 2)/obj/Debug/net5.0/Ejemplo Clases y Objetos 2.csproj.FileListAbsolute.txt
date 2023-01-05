@@ -1,0 +1,16 @@
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\bin\Debug\net5.0\Ejemplo Clases y Objetos 2.exe
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\bin\Debug\net5.0\Ejemplo Clases y Objetos 2.deps.json
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\bin\Debug\net5.0\Ejemplo Clases y Objetos 2.runtimeconfig.json
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\bin\Debug\net5.0\Ejemplo Clases y Objetos 2.runtimeconfig.dev.json
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\bin\Debug\net5.0\Ejemplo Clases y Objetos 2.dll
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\bin\Debug\net5.0\ref\Ejemplo Clases y Objetos 2.dll
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\bin\Debug\net5.0\Ejemplo Clases y Objetos 2.pdb
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\obj\Debug\net5.0\Ejemplo Clases y Objetos 2.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\obj\Debug\net5.0\Ejemplo Clases y Objetos 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\obj\Debug\net5.0\Ejemplo Clases y Objetos 2.AssemblyInfoInputs.cache
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\obj\Debug\net5.0\Ejemplo Clases y Objetos 2.AssemblyInfo.cs
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\obj\Debug\net5.0\Ejemplo Clases y Objetos 2.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\obj\Debug\net5.0\Ejemplo Clases y Objetos 2.dll
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\obj\Debug\net5.0\ref\Ejemplo Clases y Objetos 2.dll
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\obj\Debug\net5.0\Ejemplo Clases y Objetos 2.pdb
+C:\Users\Avatar\Desktop\C#\Clases y Objetos C#\Ejemplo Clases y Objetos 2\obj\Debug\net5.0\Ejemplo Clases y Objetos 2.genruntimeconfig.cache
